@@ -6,7 +6,6 @@ Created on Fri Apr 26 22:12:35 2019
 @author: john
 """
 
-#Exam 3
 import numpy as np
 import statsmodels.api as sm
 import datetime
